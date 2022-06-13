@@ -11,3 +11,16 @@
   text-align: center;
   color: #3d5a6c;
 }
+
+.admin-page .content {
+  display: flex;
+  min-height: 90vh;
+}
+
+.admin-page .products {
+  flex: 3;
+}
+
+.admin-page .coupons {
+  flex: 2;
+}
